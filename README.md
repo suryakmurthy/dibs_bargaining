@@ -2,7 +2,7 @@
 
 This repository contains code for reproducing the experiments in:
 
-**"Cooperative Bargaining Without Utilities: Mediated Solutions from Direction Oracles"**  
+**"Cooperative Bargaining Without Utilities: Mediated Solutions from Direction Oracles"** accepted at NeurIPS 2025. [[Link](https://arxiv.org/pdf/2505.14817)]
 
 DiBS is a bargaining algorithm that uses only agents’ most preferred directions (direction oracles), offering solutions that are robust to nonaffine utility transformations and do not require explicit utility values.
 
